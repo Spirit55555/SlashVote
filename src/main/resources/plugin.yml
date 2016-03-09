@@ -1,0 +1,11 @@
+main: dk.spirit55555.slashvote.SlashVote
+name: ${project.name}
+version: ${project.version}
+description: ${project.description}
+author: Anders G. Jørgensen
+website: http://spirit55555.dk
+commands:
+  vote:
+    description: Shows a message about voting
+    usage: |
+      /<command>
